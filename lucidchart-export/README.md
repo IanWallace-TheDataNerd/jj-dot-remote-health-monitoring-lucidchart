@@ -1,1 +1,1 @@
-
+This folder contains the exported Lucidchart deliverables for the J&J Dot project. It includes the final flowchart/architecture diagram files (PDF/PNG) that show how the remote monitoring patch works from patient vitals collection
