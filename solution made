@@ -1,1 +1,10 @@
+Solution Context: J&J Dot Remote Monitoring Patch
 
+The J&J Dot is a remote health monitoring patch designed for patients with limited mobility and people living in rural areas. 
+It continuously tracks patient vital signs and sends the data to the nearest hospital so providers can monitor patients in real time.
+
+The patch supports two emergency options. It can trigger an automatic SOS alert when vitals show signs of danger, and it also includes a manual SOS button for emergencies that may not be detected through vitals. 
+Alerts are organized using a four-level urgency system to help hospitals prioritize responses.
+
+The solution also collects geographic usage data to show where remote monitoring is needed most, which can help improve planning and resource allocation. 
+For security, access to patient information is protected using barcode authentication and a security question through the companion app or over the phone.
